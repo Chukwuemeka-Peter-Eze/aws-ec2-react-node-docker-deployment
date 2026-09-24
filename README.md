@@ -262,7 +262,7 @@ aws-ec2-web-deployment/
 ## Related Projects
 
 1. [`aws-ec2-spring-boot-deployment`](https://github.com/Chukwuemeka-Peter-Eze/aws-ec2-spring-boot-deployment) — manual SCP deployment of a Java/Spring Boot app to EC2.
-2. **This repo** — Docker-based deployment of a React/Node.js app to EC2.
+2. **This repo,** Docker-based deployment of a React/Node.js app to EC2.
 
 ---
 
