@@ -1,4 +1,4 @@
-# AWS EC2 Web Application Deployment
+# AWS EC2 React + Node.js Docker Deployment
 
 Deploy and host a containerized React/Node.js web application on an Amazon EC2 instance using Docker, SSH, and AWS Security Groups.
 
@@ -219,7 +219,7 @@ docker logs demo-app
 ## Repository Structure
 
 ```text
-aws-ec2-web-deployment/
+aws-ec2-react-node-docker-deployment/
 │
 ├── README.md
 ├── Dockerfile
